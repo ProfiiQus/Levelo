@@ -1,0 +1,6 @@
+name: Levelo
+version: ${project.version}
+main: com.percywald.levelo.Levelo
+api-version: 1.16
+authors: [Percywald]
+description: A Leveling plugin
